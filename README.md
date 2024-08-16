@@ -18,6 +18,12 @@ This project is a simple task management application built using **EJS** and **E
 - **CSS**: For styling the user interface.
 
 ## Demo
+![Screenshot 2024-08-16 192043](https://github.com/user-attachments/assets/13ad4271-a6a0-4d1c-8db4-f19e6d70b377)
+
+
+![Screenshot 2024-08-16 192121](https://github.com/user-attachments/assets/15aabad5-6567-4800-8be6-98e40e17884a)
+
+
 ![Screenshot 2024-08-16 192142](https://github.com/user-attachments/assets/3eccb24a-698c-4e25-9f91-d7f0c1b8d2cd)
 
 
