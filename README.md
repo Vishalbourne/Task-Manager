@@ -15,6 +15,9 @@ This project is a simple task management application built using **EJS** and **E
 - **Node.js**: JavaScript runtime used on the server side.
 - **Express**: A minimal and flexible Node.js web application framework.
 - **EJS**: Embedded JavaScript templates for generating HTML markup with plain JavaScript.
-- **MongoDB**: A NoSQL database to store tasks (optional if you're using a database).
 - **CSS**: For styling the user interface.
+
+## Demo
+![Screenshot 2024-08-16 192142](https://github.com/user-attachments/assets/3eccb24a-698c-4e25-9f91-d7f0c1b8d2cd)
+
 
